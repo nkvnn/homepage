@@ -1,0 +1,25 @@
+@media(max-width:992px) {
+    .carousel-item.active {
+        position: absolute;
+        z-index: 1;
+        width: 645px;
+        height: 380px;
+        left: 15%;
+        top: 21%;
+    }
+    .carousel-control-next.carousel-control {
+        font-weight: 500;
+        font-size: 35px;
+        color: #8c8c8c;
+        left: -14%;
+        top: 46%;
+    } .carousel-control-next {
+        font-weight: 500;
+        font-size: 35px;
+        color: #8c8c8c;
+        left: 14%;
+        top: 46%;
+    }
+    
+    
+}
